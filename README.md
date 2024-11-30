@@ -1,6 +1,6 @@
 # 👋 Hello! I'm Kenny (page under construction)
 
-## 🌥️ Cloud Engineer | Infrastructure Architect | DevOps Enthusiast
+## 🌥️ Cloud Engineer | DevOps Enthusiast
 
 Welcome to my GitHub! I'm Kenny, a Cloud Engineer passionate about designing, deploying, and optimizing scalable, secure cloud infrastructures. My expertise lies in cloud computing, infrastructure as code, cloud security and automation for high-performance systems.
 
