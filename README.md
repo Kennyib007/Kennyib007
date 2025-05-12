@@ -9,27 +9,27 @@ Welcome to my GitHub! I'm Kehinde Ibrahim (Kenny), a Cloud Engineer passionate a
 **Here's a quick summary about me**:
 - 💡 Fun fact: Advancing cloud skills through AltSchool Africa [School of Cloud Engineering](https://engineering.altschoolafrica.com).
 - 😊 I'm constantly working to expand my skills and contribute to innovative projects. Let’s build something amazing together!
-- 📫 You can [view my resume](#) and contact me by emailing kehindeibrahim118@gmail.com.
+- 📫 You can contact me by emailing kehindeibrahim118@gmail.com.
 
 <br>
 
 🛠️ Technologies & Tools
 
-Cloud Platforms: AWS , Azure, Google Cloud, Oracle Cloud
-Automation: Terraform, CloudFormation, Ansible
-Containerization & Orchestration: Docker, Kubernetes, ECS
+Cloud Platforms: AWS, Azure, Google Cloud, Oracle Cloud
+IaC: Terraform, CloudFormation
+Containerization & Orchestration: Docker, Kubernetes, ECS, EKS
 CI/CD: Jenkins, GitHub Actions, GitLab CI/CD
 Programming: Python, Bash
 Version Control: Git
-Monitoring & Logging: Prometheus, Grafana, Datadog, ELK Stack (Elasticsearch, Logstash, Kibana)
-Security & Compliance: Trivy, GitGuardian, HashiCorp Vault, CloudGuard 
+Monitoring & Logging: Prometheus, Grafana, Datadog
+Security & Compliance: Trivy, GitGuardian
 
 📈 Core Skills
 Infrastructure as Code (IaC): Skilled in automating infrastructure deployments, reducing manual errors, and enhancing scalability with Terraform and CloudFormation.
 Cloud Security: Knowledgeable in secure cloud architecture, managing access policies, and implementing encryption for data protection.
 Continuous Integration & Continuous Deployment (CI/CD): Experienced in setting up CI/CD pipelines, enabling fast, reliable software releases.
 Containerization: Proficient in deploying applications with Docker and Kubernetes, making applications portable and resource-efficient.
-Scripting & Automation: Comfortable with scripting in Python and Bash to automate repetitive tasks and optimize workflows.
+Scripting & Automation: Comfortable with scripting in Bash to automate repetitive tasks and optimize workflows.
 
 📂 Featured Projects
 Cloud Infrastructure as Code
@@ -38,21 +38,10 @@ Description: Built a scalable cloud infrastructure using Terraform, with securit
 Skills: Terraform, AWS, EC2, IAM, Git
 CI/CD Pipeline with Jenkins & Docker
 
-Description: Developed a CI/CD pipeline with Jenkins and Docker to automate code deployment for a Node.js application.
-Skills: Jenkins, Docker, GitHub, CI/CD, Node.js
-Kubernetes Cluster Setup on AWS
-
-Description: Set up a Kubernetes cluster on AWS using EKS, with Helm charts for application deployment and monitoring.
-Skills: AWS EKS, Kubernetes, Helm, Prometheus, Grafana
-Serverless Application with AWS Lambda & API Gateway
-
-Description: Deployed a serverless REST API using AWS Lambda and API Gateway, focusing on scalability and cost-efficiency.
-Skills: AWS Lambda, API Gateway, Python, CloudWatch
-
 *Thank you for visiting*
 
 ---
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=kennyib007&show_icons=true&include_all_commits=true&hide_border=true" alt="Kenny's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kennyib007&langs_count=8&layout=compact&hide_border=true" alt="Kenny's GitHub stats" /> |
-| ------------- | ------------- |
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kennyib007&langs_count=8&layout=compact&hide_border=true" alt="Kenny's GitHub stats" /> 
+
 
