@@ -9,7 +9,7 @@ Welcome to my GitHub! I'm Kehinde Ibrahim (Kenny), a Cloud Engineer passionate a
 **Here's a quick summary about me**:
 - 💡 Fun fact: Advancing cloud skills through AltSchool Africa [School of Cloud Engineering](https://engineering.altschoolafrica.com).
 - 😊 I'm constantly working to expand my skills and contribute to innovative projects. Let’s build something amazing together!
-- 📫 You can contact me by emailing kehindeibrahim118@gmail.com.
+- 📫 You can contact me by emailing kehindeibrahim959@gmail.com.
 
 <br>
 
