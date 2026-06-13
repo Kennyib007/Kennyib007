@@ -3,8 +3,8 @@
 [![Credly Badge](https://img.shields.io/badge/-Credly-F36C3D?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/kehinde-ibrahim.33594a31) [![Profile Views](https://komarev.com/ghpvc/?username=Kennyib007&style=for-the-badge&color=blueviolet)](https://github.com/Kennyib007)
 
 
-### 🌥️ SRE | DevOps | Cloud Infrastructure | Security & Automation | Solutions Engineering | Technical Delivery | Exploring Cloud Security and the Future of Cloud Innovation
-Welcome to my GitHub! I'm Kehinde Ibrahim (Kenny), a Site Reliability Engineer with experience building large-scale, multi-tiered, distributed systems across multiple cloud providers and supporting on-prem infrastructure. I work extensively with Infrastructure as Code (IaC), Continuous Integration/Continuous Deployment (CI/CD), and containerization technology. My background includes managing technical delivery and improving cloud infrastructure while maintaining a strong focus on security, reliability, cost, and governance.
+### 🌥️ SRE | DevOps | Cloud Infrastructure | Solutions Engineering 
+Welcome to my GitHub! I'm Kehinde Ibrahim (Kenny), a Site Reliability Engineer with experience building large-scale, multi-tiered, distributed systems across multiple cloud providers and supporting on-prem infrastructure. I work extensively with Infrastructure as Code (IaC), Continuous Integration/Continuous Deployment (CI/CD), and containerization technology. My background includes managing, improving cloud infrastructure, solutions engineering and technical delivery while maintaining a strong focus on security, reliability, cost, and governance.
 
 **Here's a quick summary about me**:
 - 😊 I'm constantly working to expand my skills and contribute to innovative projects. Let’s build something amazing together!
